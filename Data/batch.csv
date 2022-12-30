@@ -1,0 +1,4 @@
+Batch ID,Department Name,Batch Name,List of Courses,List of Students
+CSE2022,CSE,CSE 2022-2026,"['COO1', 'COO2']","['CSE102', 'CSE103', 'CSE104', 'CSE105', 'CSE106', 'CSE110']"
+CSE2021,CSE,CSE 2021-25,"['COO3', 'COO4']","['CSE002', 'CSE003']"
+ECE2022,Electronics and Communication Engineering,ECE 2022-26,['COO5'],"['ECE102', 'ECE103']"

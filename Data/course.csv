@@ -1,0 +1,6 @@
+Course ID,Name,Marks Obtained
+COO1,Python Programming,"{'CSE103': 90.0,'CSE002':93}"
+COO2,Java,"{'CSE102': 100.0, 'CSE103': 91.0, 'CSE104': 95.0,'CSE105':50.0,'CSE106':64.0,'CSE110':63.0,'CSE002':95,'CSE003':96}"
+COO3,Physics,{'CSE002': 90.0}
+COO4,Chemistry,"{'CSE002': 96.0, 'CSE003':82.0}"
+COO5,Basic Electronics,"{'ECE102': 96.0, 'ECE103': 69.0}"
